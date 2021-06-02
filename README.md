@@ -1,4 +1,4 @@
-# Radio-86RK FPGA replica on ReVerSE-U16 board
+# Radio-86RK FPGA replica on ReVerSE-U16 board now on AtlasFPGA
 
 ## Overview
 
